@@ -1,2 +1,2 @@
 # Inventario-DualToys
-Inventario de ventas y colección 
+Inventario de ventas y colección.
